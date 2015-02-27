@@ -1,0 +1,15 @@
+{
+  "name": "TypeScript-Backbone-Bootstrap-Boilerplate",
+  "version": "0.0.1",
+  "description": "A boilerplate project utilizing backbonejs, bootstrap written in typescript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Donald Jones <donald@birminghamdeveloper.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "tsd": "^0.5.7"
+  }
+}

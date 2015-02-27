@@ -1,0 +1,32 @@
+{
+  "name": "TypeScript Backbone Bootstrap Boilerplate",
+  "version": "0.0.1",
+  "authors": [
+    "Donald Jones <donald@birminghamdeveloper.com"
+  ],
+  "description": "A boilerplate project utilizing BackboneJS and Bootstrap written in TypeScript.",
+  "main": "main.js",
+  "keywords": [
+    "typescript",
+    "boilerplate",
+    "bootstrap",
+    "backbone"
+  ],
+  "license": "MIT",
+  "homepage": "www.birminghamdeveloper.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.16",
+    "backbone": "~1.1.2",
+    "jquery": "~2.1.3",
+    "bootstrap": "~3.3.2",
+    "underscore": "~1.8.2",
+    "requirejs-text": "~2.0.14"
+  }
+}

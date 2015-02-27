@@ -1,0 +1,11 @@
+*.js
+*.js.map
+typings/
+bower_components/
+node_modules/
+*.user
+*.suo
+*.cache
+*.cs
+bin/
+obj/
