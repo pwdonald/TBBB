@@ -7,5 +7,8 @@ require.config({
         'jquery': '../bower_components/jquery/dist/jquery',
         'bootstrap': '../bower_components/bootstrap/dist/js/bootstrap'
     },
-    deps: ['app']
+    shim: {
+        'bootstrap': {'deps': ['jquery']}
+    },
+    deps: ['bootstrap', 'app']
 });
